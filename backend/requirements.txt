@@ -10,7 +10,7 @@ pydantic-settings==2.2.1
 requests==2.33.0
 urllib3==2.7.0
 python-whois==0.9.4
-dnspython==2.6.1
+dnspython==2.9.2
 python-owasp-zap-v2.4==0.0.21
 psutil==7.1.0
 validators==0.22.0
